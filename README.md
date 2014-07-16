@@ -5,4 +5,4 @@ js-must-read
 
 ## MVC Frameworks
 - React 
-  - [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
+  - [React Demystified - Josh Haberman](http://blog.reverberate.org/2014/02/react-demystified.html)
