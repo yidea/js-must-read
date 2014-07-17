@@ -1,5 +1,13 @@
 List of must-read online articles devoted to JavaScript
 
+## Core Concept 
+- Prototype Chain
+- OOP & Inheritance, constructor, new
+- this, apply/call/bind
+- Hoisting variable/function
+- Event
+- IIFE
+
 ## ES6
 - [Understanding ECMAScript 6 - Nicholas C. Zakas](https://github.com/nzakas/understandinges6)
 
